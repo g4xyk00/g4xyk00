@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A Cybersecurity Consultant & Trainer based in Malaysia, specializing in providing cybersecurity training grounded in the "think red, act blue" philosophy. This approach involves simulating offensive attacks from various perspectives to equip clients with the knowledge and skills to anticipate and counter potential threats.
-
-Contact me today to discuss your specific training requirements. Together, we'll develop a customized plan to empower your team and protect your business.
+My journey in cybersecurity began with a deep curiosity for exploring vulnerabilities in IT and OT systems, which led me to specialize in safeguarding critical infrastructure. Throughout my career, I’ve developed a passion for helping others understand the importance of security controls and creating strategies that are both effective and practical.
