@@ -2,4 +2,4 @@ My journey in cybersecurity began with a deep curiosity for exploring vulnerabil
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garykongcybersecurity) [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://www.axcelsec.com) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://garykongcybersecurity.medium.com/)  
 
-![](https://github.githubassets.com/images/mona-whisper.gif){: width="50%"}
+<img src="https://github.githubassets.com/images/mona-whisper.gif" width=50% height=50%>
